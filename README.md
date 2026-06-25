@@ -43,12 +43,10 @@ Experiments test α ∈ {0.1, 0.01, 0.001, 0.2} and ε ∈ {0.1, 0.2, 0.3} again
 ## How to Run
 
 ```bash
-<<<<<<< HEAD
+
 # 1. Clone the repository
 cd CSCN8020_Assignment2
 =======
-# 1. cd CSCN8020_Assignment2
->>>>>>> 694b677af59ec0a774a43aa873ef9e44c6cfde15
 
 # 2. Create and activate a virtual environment (optional but recommended)
 python -m venv venv
