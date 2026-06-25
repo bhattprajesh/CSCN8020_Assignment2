@@ -59,15 +59,5 @@ pip install -r requirements.txt
 jupyter notebook CSCN8020_Assignment2.ipynb
 ```
 
-The notebook runs fully from top to bottom without errors and generates all plots in `plots/` and the log file in `logs/`.
-
----
-
-## Repository Link
-
-[https://github.com/\<USRID\>/CSCN8020_Assignment2](https://github.com/<USRID>/CSCN8020_Assignment2)  
-**Cloneable URL:** `https://github.com/<USRID>/CSCN8020_Assignment2.git`
-
----
 
 *Reference: Sutton, R. S., & Barto, A. G. (2018). Reinforcement Learning: An Introduction (2nd ed.). MIT Press.*
