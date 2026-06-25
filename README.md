@@ -43,9 +43,7 @@ Experiments test α ∈ {0.1, 0.01, 0.001, 0.2} and ε ∈ {0.1, 0.2, 0.3} again
 ## How to Run
 
 ```bash
-# 1. Clone the repository
-git clone https://github.com/<USRID>/CSCN8020_Assignment2.git
-cd CSCN8020_Assignment2
+# 1. cd CSCN8020_Assignment2
 
 # 2. Create and activate a virtual environment (optional but recommended)
 python -m venv venv
